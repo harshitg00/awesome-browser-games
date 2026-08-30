@@ -39,6 +39,8 @@ Games played best with a gamepad / game controller connected to your browser.
 | **Friday Night Funkin'** | https://ninja-muffin24.itch.io/funkin | Rhythm battle game featuring original tracks and mod support. | `#music` `#rhythm` |
 | **Slow Roads** | https://slowroads.io/ | Procedurally generated endless driving simulator in your browser. | `#driving` `#chill` |
 | **GeoFS** | https://www.geo-fs.com/ | Real-time global flight simulator using aerial imagery. | `#simulation` `#flight` |
+| **Tetr.io** | https://tetr.io/ | The best Tetris game | `#tetris` `#multiplayer` |
+| **Light Blocks** | https://mrstahlfelge.itch.io/lightblocks | Mission based tetris, best for newbies | `#tetris` |
 
 ### 🛋️ Local Multiplayer Couch Games
 Play with friends, best with a gamepad / game controller connected to your browser.
