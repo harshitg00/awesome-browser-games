@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Awesome Browser Games</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>">
   <!-- Tailwind CSS CDN for instant modern styling -->
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Marked.js for parsing markdown -->
@@ -109,8 +110,7 @@
             const tagsRaw = cols[3] || '';
 
             // Extract tags like `#tag`
-            const tags = tagsRaw.match(/#[a border-0-9-_]+/g) || [];
-
+            const tags = tagsRaw.match(/#[a-z0-9_\-]+/gi) || [];
             allGames.push({
               name: rawName,
               link: link,
