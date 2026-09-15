@@ -19,7 +19,7 @@ Casual, quick-play word puzzles and vocabulary games.
 | **Strands** | https://www.nytimes.com/games/strands | Find hidden words by connecting letters on a grid. | `#daily` `#wordsearch` |
 | **Connections** | https://www.nytimes.com/games/connections | Group four items that share a common thread. | `#logic` `#daily` |
 | **Contexto** | https://contexto.me | Find the secret word using AI-driven semantic similarity rankings. | `#ai` `#deduction` |
-
+| **Play Meowdoku** | https://playmeowdoku.com | Free browser cat logic puzzle (one cat per region; no shared row/column; no diagonal touch). | `#logic` `#puzzle` |
 ### 🧩 Complex Word Games
 Deeper, highly strategic, or challenging word puzzles that require extra brainpower.
 
