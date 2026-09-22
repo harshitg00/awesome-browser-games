@@ -57,5 +57,14 @@ Immersive 3D browser games with full environment control.
 | :--- | :--- | :--- | :--- |
 | **Vortellis Pizza** | https://poki.com/en/g/vortellis-pizza | 3D restaurant management and pizza delivery simulation. | `#3d` `#simulation` |
 
+## 🧩 Puzzle Games
+
+Brain-teasing puzzles you can solve right in your browser.
+
+| Game Name | Direct Link | Description | Tags |
+| :--- | :--- | :--- | :--- |
+| **Arrow Puzzle Escape** | https://arrow-puzzle.app/ | Slide arrows to clear a path and escape the grid — 100 levels, daily challenge. | `#puzzle` `#logic` `#daily` |
+
+
 ## 🤝 Contributing
 Suggestions and contributions are welcome! Please check out our [Contributing Guidelines](CONTRIBUTING.md) before submitting a Pull Request.
