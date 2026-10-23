@@ -19,6 +19,7 @@ Casual, quick-play word puzzles and vocabulary games.
 | **Strands** | https://www.nytimes.com/games/strands | Find hidden words by connecting letters on a grid. | `#daily` `#wordsearch` |
 | **Connections** | https://www.nytimes.com/games/connections | Group four items that share a common thread. | `#logic` `#daily` |
 | **Contexto** | https://contexto.me | Find the secret word using AI-driven semantic similarity rankings. | `#ai` `#deduction` |
+| **Plain Game** | https://plaingame.fun/ | Seven quick daily rounds: name something close to a target number or estimate a fact. | `#daily` `#estimation` |
 
 ### 🧩 Complex Word Games
 Deeper, highly strategic, or challenging word puzzles that require extra brainpower.
