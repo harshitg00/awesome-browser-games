@@ -18,6 +18,7 @@ Casual, quick-play word puzzles and vocabulary games.
 | **Wordle** | https://www.nytimes.com/games/wordle | Guess the hidden 5-letter word in six tries. | `#daily` `#puzzle` |
 | **Strands** | https://www.nytimes.com/games/strands | Find hidden words by connecting letters on a grid. | `#daily` `#wordsearch` |
 | **Connections** | https://www.nytimes.com/games/connections | Group four items that share a common thread. | `#logic` `#daily` |
+| **Krillion Unlimited** | https://krillion-unlimited.org/ | Practise a seven-prompt rare-answer word game with unlimited dives and no daily limit. | `#word` `#practice` |
 | **Contexto** | https://contexto.me | Find the secret word using AI-driven semantic similarity rankings. | `#ai` `#deduction` |
 
 ### 🧩 Complex Word Games
